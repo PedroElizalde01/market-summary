@@ -1,0 +1,19 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "keyword-extractor": "^0.0.28",
+    "natural": "^8.0.1",
+    "node-summarizer": "^1.0.7",
+    "pdf-parse": "^1.1.1"
+  }
+}
